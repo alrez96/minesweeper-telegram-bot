@@ -145,7 +145,7 @@ function connectDB()
 {
 	$servername = "localhost";
 	$username = "botir_bot";
-	$password = "AlIrEzA4227620";
+	$password = "-";
 	$dbname = "botir_test";
 
 	$conn = new mysqli($servername, $username, $password, $dbname);
